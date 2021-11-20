@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728771301646",
+    "project_id": "mplacementtracker-a7be0",
+    "storage_bucket": "mplacementtracker-a7be0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728771301646:android:5ebedb77bf9ee72577c75f",
+        "android_client_info": {
+          "package_name": "com.anmol.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728771301646-8celc0lbq3kok3f2egkt8825p6bp9k20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHhX3xOpx1DXdkLqQuRvlVjKz5aypS_LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728771301646-8celc0lbq3kok3f2egkt8825p6bp9k20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
